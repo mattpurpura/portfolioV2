@@ -11,6 +11,9 @@
         "theme",
         "template"
     ],
+    "scripts": {
+        "start": "npm-run-all"
+    },
     "homepage": "https://startbootstrap.com/template-overviews/resume",
     "bugs": {
         "url": "https://github.com/BlackrockDigital/startbootstrap-resume/issues",
