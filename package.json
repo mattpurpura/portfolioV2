@@ -12,7 +12,7 @@
         "template"
     ],
     "scripts": {
-        "start": "npm-run-all"
+        "start": ""
     },
     "homepage": "https://startbootstrap.com/template-overviews/resume",
     "bugs": {
